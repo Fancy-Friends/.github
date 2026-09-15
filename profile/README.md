@@ -52,7 +52,7 @@ carry a provenance attestation naming the repository and workflow that built the
 | [Telegram](https://github.com/Fancy-Friends/telegram) | messaging | [telegram-ui](https://www.npmjs.com/package/@particle-academy/telegram-ui) · [telegram-js](https://www.npmjs.com/package/@particle-academy/telegram-js) | [telegram-php](https://packagist.org/packages/particle-academy/telegram-php) | [fancy-telegram](https://pypi.org/project/fancy-telegram/) |
 | [YouTube](https://github.com/Fancy-Friends/youtube) | marketing | [youtube-ui](https://www.npmjs.com/package/@particle-academy/youtube-ui) · [youtube-js](https://www.npmjs.com/package/@particle-academy/youtube-js) | [youtube-php](https://packagist.org/packages/particle-academy/youtube-php) | [fancy-youtube](https://pypi.org/project/fancy-youtube/) |
 
-93 more are planned. A connector appears here once its repository and packages exist.
+95 more are planned. A connector appears here once its repository and packages exist.
 
 ## Using one
 
